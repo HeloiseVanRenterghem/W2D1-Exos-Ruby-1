@@ -3,6 +3,7 @@ EXOS RUBY 1
 ---------------
 
 2.1. Bonjour monde
+
 Crée un programme exo_01.rb qui affiche "Bonjour, monde !".
 
 ---------------
