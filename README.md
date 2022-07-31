@@ -1,14 +1,10 @@
-EXOS RUBY 1
+# EXOS RUBY 1
 
----------------
-
-2.1. Bonjour monde
+### 2.1. Bonjour monde
 
 Crée un programme exo_01.rb qui affiche "Bonjour, monde !".
 
----------------
-
-2.2. Bonjours, monde
+### 2.2. Bonjours, monde
 
 Crée un programme exo_02.rb qui affiche les lignes suivantes :
 
@@ -16,15 +12,11 @@ Bonjour, monde !
 
 Et avec une voix sexy, ça donne : Bonjour, monde !
 
----------------
-
-2.3. Il ne dit pas bonjour
+### 2.3. Il ne dit pas bonjour
 
 Reprends ton programme exo_02.rb, puis écris un programme exo_03.rb qui est le même, mais avec # devant la ligne 2. Peux-tu me dire ce qu'il se passe ?
 
----------------
-
-2.4. Ça marche pô 😢
+### 2.4. Ça marche pô 😢
 
 Crée un programme exo_04.rb avec les lignes suivantes :
 
@@ -32,9 +24,7 @@ puts "Salut, ça farte ?
 
 Lance le programme. Que se passe-t-il ? Pourquoi ?
 
----------------
-
-2.5. Opérations
+### 2.5. Opérations
 
 Écris un programme exo_05.rb avec les lignes suivantes :
 
@@ -68,9 +58,7 @@ puts "Est-ce que 5 est inférieur ou égal à -2 ? #{5 <= -2}"
 
 D'abord, que fait #{} ? Ensuite, mets un commentaire devant chacune des lignes et explique ce qu'elle fait.
 
----------------
-
-2.6. Variables
+### 2.6. Variables
 
 Écris un programme exo_06.rb avec les lignes suivantes :
 
@@ -90,9 +78,7 @@ puts "Et en minutes ça fait : #{number_of_minutes_in_an_hour * number_of_hours_
 
 Lance-le programme. Que se passe-t-il ? Peux-tu l'expliquer ?
 
----------------
-
-2.7. Demander à l'utilisateur
+### 2.7. Demander à l'utilisateur
 
 Écris un programme exo_07_a.rb avec les lignes suivantes :
 
@@ -122,32 +108,22 @@ puts user_name
 
 Quelles sont les différences entre les trois programmes ?
 
----------------
-
-2.8. Un programme qui dit bonjour
+### 2.8. Un programme qui dit bonjour
 
 Écris un programme exo_08.rb qui demande le prénom de l'utilisateur, et qui salue l'utilisateur avec "Bonjour, prénom !".
 
----------------
-
-2.9. Un programme qui dit bonjour de manière complète
+### 2.9. Un programme qui dit bonjour de manière complète
 
 Écris un programme exo_09.rb qui demande le prénom de l'utilisateur, qui lui demande après son nom de famille, et qui salue l'utilisateur avec "Bonjour, prénom nom !".
 
----------------
-
-2.10. Un programme qui calcule des âges
+### 2.10. Un programme qui calcule des âges
 
 Écris un programme exo_10.rb qui demande son année de naissance à l'utilisateur, puis qui ressort l'âge que l'utilisateur a eu en 2017.
 
----------------
-
-2.11. Un programme qui répète
+### 2.11. Un programme qui répète
 
 Écris un programme exo_11.rb qui demande un nombre à l'utilisateur, puis qui écrit autant de fois "Salut, ça farte ?".
 
----------------
-
-2.12. Compter
+### 2.12. Compter
 
 Écris un programme exo_12.rb qui demande un nombre à l'utilisateur, puis qui compte jusqu'à ce nombre.
